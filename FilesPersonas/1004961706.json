@@ -1,0 +1,1 @@
+{"py/object": "Dominio.usuario.Usuario", "nombre": "Javier ", "apellido": "Rodriguez Marulanda", "documento": "1004961706", "telefono": "312721867", "contacto": {"py/object": "Dominio.contacto.Contacto", "numero": "1231564", "conocimientoContacto": "PY_VAR7"}}
